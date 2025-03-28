@@ -11,6 +11,6 @@ jobs:
     steps:
       - name: Send HTTP Requests to Keep Apps Awake
         run: |
-          curl -s https://app1-name.streamlit.app/
-          curl -s https://app2-name.streamlit.app/
-          curl -s https://app3-name.streamlit.app/
+          curl -s https://german-credit-risk-prediction.streamlit.app/
+          curl -s https://trip-advisor-llm-by-suriyag.streamlit.app/
+         
